@@ -17,10 +17,10 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
-        "type": null
+        "state_fips": "47",
+        "county_fips": "47093",
+        "city_fips": "470931300",
+        "type": "documentary"
       }
     },
     {
@@ -39,9 +39,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47093",
+        "city_fips": "470931300",
         "type": null
       }
     },
@@ -61,9 +61,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "37",
+        "county_fips": "37199",
+        "city_fips": "371990710",
         "type": null
       }
     },
@@ -83,9 +83,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47171",
+        "city_fips": "471710810",
         "type": null
       }
     },
@@ -105,7 +105,7 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
+        "state_fips": "21",
         "county_fips": null,
         "city_fips": null,
         "type": null
@@ -127,7 +127,7 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
+        "state_fips": "21",
         "county_fips": null,
         "city_fips": null,
         "type": null
@@ -149,7 +149,7 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
+        "state_fips": "21",
         "county_fips": null,
         "city_fips": null,
         "type": null
@@ -171,7 +171,7 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
+        "state_fips": "21",
         "county_fips": null,
         "city_fips": null,
         "type": null
@@ -193,7 +193,7 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
+        "state_fips": "47",
         "county_fips": null,
         "city_fips": null,
         "type": null
@@ -215,9 +215,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47093",
+        "city_fips": "470931300",
         "type": null
       }
     },
@@ -237,9 +237,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47029",
+        "city_fips": "470291780",
         "type": null
       }
     },
@@ -259,9 +259,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47029",
+        "city_fips": "470291780",
         "type": null
       }
     },
@@ -281,9 +281,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47059",
+        "city_fips": "470591010",
         "type": null
       }
     },
@@ -303,9 +303,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47093",
+        "city_fips": "470931300",
         "type": null
       }
     },
@@ -325,9 +325,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47059",
+        "city_fips": "470591010",
         "type": null
       }
     },
@@ -347,9 +347,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47093",
+        "city_fips": "470931300",
         "type": null
       }
     },
@@ -369,9 +369,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47093",
+        "city_fips": "470931300",
         "type": null
       }
     },
@@ -413,9 +413,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47029",
+        "city_fips": "470291780",
         "type": null
       }
     },
@@ -457,9 +457,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47029",
+        "city_fips": "470291780",
         "type": null
       }
     },
@@ -479,9 +479,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47093",
+        "city_fips": "470931300",
         "type": null
       }
     },
@@ -501,9 +501,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47029",
+        "city_fips": "470291780",
         "type": null
       }
     },
@@ -523,7 +523,7 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
+        "state_fips": "47",
         "county_fips": null,
         "city_fips": null,
         "type": null
@@ -611,9 +611,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47073",
+        "city_fips": "470732080",
         "type": null
       }
     },
@@ -787,9 +787,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47155",
+        "city_fips": "471552170",
         "type": null
       }
     },
@@ -941,7 +941,7 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
+        "state_fips": "47",
         "county_fips": null,
         "city_fips": null,
         "type": null
@@ -1403,9 +1403,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "37",
+        "county_fips": "37199",
+        "city_fips": "371990710",
         "type": null
       }
     },
@@ -1535,9 +1535,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47091",
+        "city_fips": "470911720",
         "type": null
       }
     },
@@ -1645,9 +1645,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47063",
+        "city_fips": "470631700",
         "type": null
       }
     },
@@ -1733,9 +1733,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47059",
+        "city_fips": "470591010",
         "type": null
       }
     },
@@ -1755,9 +1755,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47059",
+        "city_fips": "470591010",
         "type": null
       }
     },
@@ -1777,9 +1777,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47059",
+        "city_fips": "470591010",
         "type": null
       }
     },
@@ -1799,9 +1799,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47059",
+        "city_fips": "470591010",
         "type": null
       }
     },
@@ -1821,9 +1821,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47059",
+        "city_fips": "470591010",
         "type": null
       }
     },
@@ -1865,9 +1865,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47093",
+        "city_fips": "470931300",
         "type": null
       }
     },
@@ -1953,9 +1953,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47093",
+        "city_fips": "470931300",
         "type": null
       }
     },
@@ -2063,8 +2063,8 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
+        "state_fips": "47",
+        "county_fips": "47025",
         "city_fips": null,
         "type": null
       }
@@ -2085,9 +2085,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47163",
+        "city_fips": "471631280",
         "type": null
       }
     },
@@ -2283,9 +2283,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47163",
+        "city_fips": "471631280",
         "type": null
       }
     },
@@ -2305,9 +2305,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47163",
+        "city_fips": "471631280",
         "type": null
       }
     },
@@ -2327,8 +2327,8 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
+        "state_fips": "47",
+        "county_fips": "47063",
         "city_fips": null,
         "type": null
       }
@@ -2371,9 +2371,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47089",
+        "city_fips": "470891230",
         "type": null
       }
     },
@@ -3207,9 +3207,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47063",
+        "city_fips": "470632095",
         "type": null
       }
     },
@@ -3229,9 +3229,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47063",
+        "city_fips": "470632095",
         "type": null
       }
     },
@@ -3251,9 +3251,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47107",
+        "city_fips": "471070327",
         "type": null
       }
     },
@@ -3273,9 +3273,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47063",
+        "city_fips": "470632095",
         "type": null
       }
     },
@@ -3295,9 +3295,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47063",
+        "city_fips": "470632095",
         "type": null
       }
     },
@@ -3317,9 +3317,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47107",
+        "city_fips": "471070327",
         "type": null
       }
     },
@@ -3339,9 +3339,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47107",
+        "city_fips": "471070327",
         "type": null
       }
     },
@@ -3361,9 +3361,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47063",
+        "city_fips": "470632095",
         "type": null
       }
     },
@@ -3383,9 +3383,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47063",
+        "city_fips": "470632095",
         "type": null
       }
     },
@@ -3405,9 +3405,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47063",
+        "city_fips": "470632095",
         "type": null
       }
     },
@@ -3427,9 +3427,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47063",
+        "city_fips": "470632095",
         "type": null
       }
     },
@@ -3449,9 +3449,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47059",
+        "city_fips": "470591010",
         "type": null
       }
     },
@@ -3471,9 +3471,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47059",
+        "city_fips": "470591010",
         "type": null
       }
     },
@@ -3493,9 +3493,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47059",
+        "city_fips": "470591010",
         "type": null
       }
     },
@@ -3515,9 +3515,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47059",
+        "city_fips": "470591010",
         "type": null
       }
     },
@@ -3537,9 +3537,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47059",
+        "city_fips": "470591010",
         "type": null
       }
     },
@@ -3559,9 +3559,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47059",
+        "city_fips": "470591010",
         "type": null
       }
     },
@@ -3713,9 +3713,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47093",
+        "city_fips": "470931300",
         "type": null
       }
     },
@@ -3735,9 +3735,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47093",
+        "city_fips": "470931300",
         "type": null
       }
     },
@@ -3757,9 +3757,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47093",
+        "city_fips": "470931300",
         "type": null
       }
     },
@@ -3779,9 +3779,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47093",
+        "city_fips": "470931300",
         "type": null
       }
     },
@@ -3801,9 +3801,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47107",
+        "city_fips": "471070830",
         "type": null
       }
     },
@@ -3823,9 +3823,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47107",
+        "city_fips": "471070830",
         "type": null
       }
     },
@@ -3845,9 +3845,9 @@
         "state": null,
         "county": null,
         "city": null,
-        "state_fips": null,
-        "county_fips": null,
-        "city_fips": null,
+        "state_fips": "47",
+        "county_fips": "47107",
+        "city_fips": "471070830",
         "type": null
       }
     },
