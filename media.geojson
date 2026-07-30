@@ -1,0 +1,3877 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "East Tennessee Voices： African American Women & Political History",
+        "filename": "./20190414 - East Tennessee Voices： African American Women & Political History.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2019-04-14",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Knoxville's Red Summer： The Riot of 1919",
+        "filename": "./20190909 - Knoxville's Red Summer： The Riot of 1919.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2019-09-09",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Lesley Riddle",
+        "filename": "./20191112 - Lesley Riddle.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2019-11-12",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "The Erwin Expulsion of 1918",
+        "filename": "./20191112 - The Erwin Expulsion of 1918.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2019-11-12",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "The Eastern Kentucky Social Club - Part 1",
+        "filename": "./20200108 - The Eastern Kentucky Social Club - Part 1.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-01-08",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "The Eastern Kentucky Social Club - Part 2",
+        "filename": "./20200131 - The Eastern Kentucky Social Club - Part 2.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-01-31",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "The Eastern Kentucky Social Club - Part 3",
+        "filename": "./20200305 - The Eastern Kentucky Social Club - Part 3.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-03-05",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "The Eastern Kentucky Social Club - Part 4",
+        "filename": "./20200309 - The Eastern Kentucky Social Club - Part 4.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-03-09",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Alex Haley, 1991",
+        "filename": "./20200412 - Alex Haley, 1991.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-04-12",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Bill Murrah - History of the 8th of August",
+        "filename": "./20200420 - Bill Murrah - History of the 8th of August.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-04-20",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Carlene Robinson - 8th of August, Newport, TN",
+        "filename": "./20200420 - Carlene Robinson - 8th of August, Newport, TN.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-04-20",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Delores Thomas-Branner - 8th of August, Newport, TN",
+        "filename": "./20200420 - Delores Thomas-Branner - 8th of August, Newport, TN.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-04-20",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Gene Maddox - 8th of August, Greeneville, TN",
+        "filename": "./20200420 - Gene Maddox - 8th of August, Greeneville, TN.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-04-20",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Geraldine Taylor - 8th of August, Knoxville, TN",
+        "filename": "./20200420 - Geraldine Taylor - 8th of August, Knoxville, TN.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-04-20",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Kendra Hinkle - 8th of August",
+        "filename": "./20200420 - Kendra Hinkle - 8th of August.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-04-20",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Maggie Davis - 8th of August, Knoxville, TN",
+        "filename": "./20200420 - Maggie Davis - 8th of August, Knoxville, TN.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-04-20",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Marie Battle - 8th of August, Knoxville, TN",
+        "filename": "./20200420 - Marie Battle - 8th of August, Knoxville, TN.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-04-20",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Ned Arter - 8th of August",
+        "filename": "./20200420 - Ned Arter - 8th of August.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-04-20",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Ollie Mae Haney-Swagerty - 8th of August, Newport, TN",
+        "filename": "./20200420 - Ollie Mae Haney-Swagerty - 8th of August, Newport, TN.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-04-20",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Randi Knott - 8th of August",
+        "filename": "./20200420 - Randi Knott - 8th of August.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-04-20",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Rudene Lewis Swagerty - 8th of August, Newport, TN",
+        "filename": "./20200420 - Rudene Lewis Swagerty - 8th of August, Newport, TN.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-04-20",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Wilma Steele - 8th of August, Knoxville, TN",
+        "filename": "./20200420 - Wilma Steele - 8th of August, Knoxville, TN.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-04-20",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Beulah Oldham - Newport, TN",
+        "filename": "./20200422 - Beulah Oldham - Newport, TN.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-04-22",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "John Cimprich, ＂Slavery's End in Tennessee＂",
+        "filename": "./20200422 - John Cimprich, ＂Slavery's End in Tennessee＂.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-04-22",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Beauford Delaney",
+        "filename": "./20200501 - Beauford Delaney.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-05-01",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "The Eastern Kentucky Social Club - Part 5",
+        "filename": "./20200502 - The Eastern Kentucky Social Club - Part 5.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-05-02",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "The Eastern Kentucky Social Club",
+        "filename": "./20200503 - The Eastern Kentucky Social Club.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-05-03",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "May Day with Swift College Alumni - Rogersville, TN",
+        "filename": "./20200508 - May Day with Swift College Alumni - Rogersville, TN.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-05-08",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Betty Watterson-Fugate",
+        "filename": "./20200511 - Betty Watterson-Fugate.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-05-11",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Catherine Snapp-Howard",
+        "filename": "./20200511 - Catherine Snapp-Howard.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-05-11",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Dessa Edyth Parkey-Blair",
+        "filename": "./20200511 - Dessa Edyth Parkey-Blair.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-05-11",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Etta Snapp-Fanny",
+        "filename": "./20200511 - Etta Snapp-Fanny.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-05-11",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Imogene Trammel-Fugate",
+        "filename": "./20200511 - Imogene Trammel-Fugate.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-05-11",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Josephine Snapp-Francisco-Willis",
+        "filename": "./20200511 - Josephine Snapp-Francisco-Willis.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-05-11",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Lois Goins",
+        "filename": "./20200511 - Lois Goins.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-05-11",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Lollie Mae McKinney-Surratt： Swift Reunion, Sevierville, TN",
+        "filename": "./20200511 - Lollie Mae McKinney-Surratt： Swift Reunion, Sevierville, TN.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-05-11",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Margaret Clark-Delaney",
+        "filename": "./20200511 - Margaret Clark-Delaney.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-05-11",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Norma Jean Cope-Bowers",
+        "filename": "./20200511 - Norma Jean Cope-Bowers.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-05-11",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Pat Snapp-Charles",
+        "filename": "./20200511 - Pat Snapp-Charles.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-05-11",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Ruth Sharp-Ben",
+        "filename": "./20200511 - Ruth Sharp-Ben.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-05-11",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Wayne Fain",
+        "filename": "./20200511 - Wayne Fain.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-05-11",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "William Dennis",
+        "filename": "./20200511 - William Dennis.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-05-11",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Bobby Lovett： Swift College & The History of Black Education in Tennessee",
+        "filename": "./20200512 - Bobby Lovett： Swift College & The History of Black Education in Tennessee.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-05-12",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Lester C Lamon： Swift & Maryville Colleges",
+        "filename": "./20200512 - Lester C Lamon： Swift & Maryville Colleges.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-05-12",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Lollie Mae McKinney-Surratt at Swift Museum",
+        "filename": "./20200512 - Lollie Mae McKinney-Surratt at Swift Museum.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-05-12",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Robert J Booker on William H. Franklin",
+        "filename": "./20200512 - Robert J Booker on William H. Franklin.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-05-12",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Carolyn Trammell-Cox at Swift Museum",
+        "filename": "./20200514 - Carolyn Trammell-Cox at Swift Museum.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-05-14",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Charles W Hargrave at Swift Museum",
+        "filename": "./20200514 - Charles W Hargrave at Swift Museum.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-05-14",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Dessa Edyth Parkey-Blair at Swift Museum",
+        "filename": "./20200515 - Dessa Edyth Parkey-Blair at Swift Museum.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-05-15",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Sandy Durham at Swift Museum",
+        "filename": "./20200515 - Sandy Durham at Swift Museum.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-05-15",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Stella Gudger at Swift Museum",
+        "filename": "./20200515 - Stella Gudger at Swift Museum.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-05-15",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Stella Gudger at Swift Museum II",
+        "filename": "./20200516 - Stella Gudger at Swift Museum II.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-05-16",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Dr. William ＂Tom＂ Bogart： Swift & Maryville College",
+        "filename": "./20200518 - Dr. William ＂Tom＂ Bogart： Swift & Maryville College.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-05-18",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Donald J Daniels -  Morristown College",
+        "filename": "./20200521 - Donald J Daniels -  Morristown College.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-05-21",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Dr. Paul Fuller - Morristown College",
+        "filename": "./20200521 - Dr. Paul Fuller - Morristown College.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-05-21",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Jim Claborn - Morristown College",
+        "filename": "./20200521 - Jim Claborn - Morristown College.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-05-21",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Madelyn Foster Daniels - Morristown College",
+        "filename": "./20200521 - Madelyn Foster Daniels - Morristown College.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-05-21",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Mary Houston Coleman - Morristown College",
+        "filename": "./20200521 - Mary Houston Coleman - Morristown College.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-05-21",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Sam Richardson - Morristown College",
+        "filename": "./20200521 - Sam Richardson - Morristown College.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-05-21",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "The Corbin Expulsion of 1919",
+        "filename": "./20200629 - The Corbin Expulsion of 1919.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-06-29",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "The Swift Story",
+        "filename": "./20200706 - The Swift Story.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-07-06",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Beauford Delaney： Subtítulos en Español",
+        "filename": "./20200723 - Beauford Delaney： Subtítulos en Español.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-07-23",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Black in Appalachia Live! w⧸ Public Radio Exchange",
+        "filename": "./20200904 - Black in Appalachia Live! w⧸ Public Radio Exchange.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-09-04",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Lesley Riddle： Subtítulos en Español",
+        "filename": "./20201026 - Lesley Riddle： Subtítulos en Español.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-10-26",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Swift Memorial Institute： Oral Histories & Interviews",
+        "filename": "./20201206 - Swift Memorial Institute： Oral Histories & Interviews.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2020-12-06",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Tour of the Beck Cultural Exchange Center",
+        "filename": "./20210125 - Tour of the Beck Cultural Exchange Center.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2021-01-25",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Tour of the The Calvin M. McClung Historical Collection",
+        "filename": "./20210128 - Tour of the The Calvin M. McClung Historical Collection.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2021-01-28",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Finding Your Roots： Beck Cultural Exchange Center",
+        "filename": "./20210131 - Finding Your Roots： Beck Cultural Exchange Center.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2021-01-31",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Black In Appalachia.org",
+        "filename": "./20210202 - Black In Appalachia.org.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2021-02-02",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Shoun's Chapel School, Mountain City, Tennessee, 1940",
+        "filename": "./20210206 - Shoun's Chapel School, Mountain City, Tennessee, 1940.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2021-02-06",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "APPALACHIAN STUDIES CONFERENCE： Black in Appalachia the Podcast",
+        "filename": "./20210314 - APPALACHIAN STUDIES CONFERENCE： Black in Appalachia the Podcast.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2021-03-14",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Sound & Sole",
+        "filename": "./20210705 - Sound & Sole.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2021-07-05",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Lynching Site Soil Collections, Wise County, Virginia",
+        "filename": "./20210718 - Lynching Site Soil Collections, Wise County, Virginia.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2021-07-18",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Dulatown",
+        "filename": "./20210721 - Dulatown.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2021-07-21",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "William H. Rucker, Morristown, TN - 2017",
+        "filename": "./20211105 - William H. Rucker, Morristown, TN - 2017.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2021-11-05",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "James E Box, Middlesboro, KY： 2022",
+        "filename": "./20230302 - James E Box, Middlesboro, KY： 2022.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2023-03-02",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Mabel Ballinger-Smith, Middlesboro, KY： 2022",
+        "filename": "./20230302 - Mabel Ballinger-Smith, Middlesboro, KY： 2022.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2023-03-02",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "A Gate City Villainy： The Lynching of Samuel Wood",
+        "filename": "./20230525 - A Gate City Villainy： The Lynching of Samuel Wood.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2023-05-25",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Arlin Lee Bowers & Linnie Hamilton-Gillespie, Greeneville Tennessee",
+        "filename": "./20230606 - Arlin Lee Bowers & Linnie Hamilton-Gillespie, Greeneville Tennessee.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2023-06-06",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Donald Leroy Ripley, Greeneville Tennessee",
+        "filename": "./20230606 - Donald Leroy Ripley, Greeneville Tennessee.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2023-06-06",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "George Farnsworth Hall, Greeneville Tennessee",
+        "filename": "./20230606 - George Farnsworth Hall, Greeneville Tennessee.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2023-06-06",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Jerleen Barner-Manual, Greeneville Tennessee",
+        "filename": "./20230606 - Jerleen Barner-Manual, Greeneville Tennessee.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2023-06-06",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Sylvia Ann Hall-Bowers, Greeneville Tennessee",
+        "filename": "./20230606 - Sylvia Ann Hall-Bowers, Greeneville Tennessee.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2023-06-06",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Black in Appalachia Podcast： Cornel West runs for President",
+        "filename": "./20230725 - Black in Appalachia Podcast： Cornel West runs for President.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2023-07-25",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Knoxville College by Drone",
+        "filename": "./20230809 - Knoxville College by Drone.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2023-08-09",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "A Dangerous Spirit： The Lynching of Lucian Weaver",
+        "filename": "./20230829 - A Dangerous Spirit： The Lynching of Lucian Weaver.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2023-08-29",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Diabolical Murders： The Lynching of Thomas Hunter",
+        "filename": "./20230919 - Diabolical Murders： The Lynching of Thomas Hunter.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2023-09-19",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Wiley Gynn, Lynching Marker Unveiling： April 22, 2023",
+        "filename": "./20230924 - Wiley Gynn, Lynching Marker Unveiling： April 22, 2023.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2023-09-24",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "The Lane Family, 1982 World's Fair, Knoxville, TN",
+        "filename": "./20231129 - The Lane Family, 1982 World's Fair, Knoxville, TN.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2023-11-29",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Boomer Winfrey, Coal Creek Miners Museum - 2018",
+        "filename": "./20231203 - Boomer Winfrey, Coal Creek Miners Museum - 2018.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2023-12-03",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Liberated Landscape： Black Appalachian Ohio",
+        "filename": "./20240324 - Liberated Landscape： Black Appalachian Ohio.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2024-03-24",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Re-installation of David Hurst Lynching Marker, Appalachia, Virginia",
+        "filename": "./20240327 - Re-installation of David Hurst Lynching Marker, Appalachia, Virginia.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2024-03-27",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Memorial Day in Lynch, Kentucky",
+        "filename": "./20240529 - Memorial Day in Lynch, Kentucky.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2024-05-29",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Hoop Creek, Claiborne County, East Tennessee",
+        "filename": "./20240603 - Hoop Creek, Claiborne County, East Tennessee.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2024-06-03",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Youth Choir, Central Baptist Church, Kingsport, TN 1953",
+        "filename": "./20240613 - Youth Choir, Central Baptist Church, Kingsport, TN 1953.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2024-06-13",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Soil Collection Ceremony： Bristol, Virginia",
+        "filename": "./20240619 - Soil Collection Ceremony： Bristol, Virginia.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2024-06-19",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Wheels Exhibition, George Tillman Anderson Jr, Bluefield, WV",
+        "filename": "./20240624 - Wheels Exhibition, George Tillman Anderson Jr, Bluefield, WV.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2024-06-24",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Dr. Karida Brown, St. Louis, 2018",
+        "filename": "./20240718 - Dr. Karida Brown, St. Louis, 2018.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2024-07-18",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Avon Rollins on Economic Parity",
+        "filename": "./20240801 - Avon Rollins on Economic Parity.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2024-08-01",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Grassroots Garveyism：  The Southern Roots of Black Nationalism, 2016",
+        "filename": "./20240802 - Grassroots Garveyism：  The Southern Roots of Black Nationalism, 2016.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2024-08-02",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Memorial Service： Brenda Kaye Whiteside",
+        "filename": "./20240805 - Memorial Service： Brenda Kaye Whiteside.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2024-08-05",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Ruins of Morristown College",
+        "filename": "./20240805 - Ruins of Morristown College.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2024-08-05",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Dante , Virginia 1940",
+        "filename": "./20240910 - Dante , Virginia 1940.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2024-09-10",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Full Program： Healing of Rotherwood, Kingsport, TN",
+        "filename": "./20241011 - Full Program： Healing of Rotherwood, Kingsport, TN.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2024-10-11",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Healing at Rotherwood Mansion, Kingsport, TN",
+        "filename": "./20241011 - Healing at Rotherwood Mansion, Kingsport, TN.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2024-10-11",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Mrs. Delphine Yeary Blevins, Hamblen County, TN",
+        "filename": "./20241203 - Mrs. Delphine Yeary Blevins, Hamblen County, TN.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2024-12-03",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Willie Mae Clark Gillenwater, Cheyenne, WY",
+        "filename": "./20241203 - Willie Mae Clark Gillenwater, Cheyenne, WY.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2024-12-03",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Helen Rucker Buis, Jefferson City, TN",
+        "filename": "./20241212 - Helen Rucker Buis, Jefferson City, TN.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2024-12-12",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Full Program： Robert Clark Marker Dedication, Bristol, VA",
+        "filename": "./20241216 - Full Program： Robert Clark Marker Dedication, Bristol, VA.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2024-12-16",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Robert Clark Marker Dedication, Bristol, Virginia",
+        "filename": "./20241216 - Robert Clark Marker Dedication, Bristol, Virginia.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2024-12-16",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Andrea Massey, Lynch, Kentucky",
+        "filename": "./20241217 - Andrea Massey, Lynch, Kentucky.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2024-12-17",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Angela Smith Ward, Lynch, Kentucky",
+        "filename": "./20241217 - Angela Smith Ward, Lynch, Kentucky.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2024-12-17",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Annie Gist, St. Louis",
+        "filename": "./20241217 - Annie Gist, St. Louis.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2024-12-17",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Bennie Massey, St. Louis",
+        "filename": "./20241217 - Bennie Massey, St. Louis.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2024-12-17",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Bernie Bickerstaff, St. Louis",
+        "filename": "./20241217 - Bernie Bickerstaff, St. Louis.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2024-12-17",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Della Watts, St. Louis",
+        "filename": "./20241217 - Della Watts, St. Louis.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2024-12-17",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Edgar James Moss, Detroit,Michigan",
+        "filename": "./20241217 - Edgar James Moss, Detroit,Michigan.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2024-12-17",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Ezell Smith, Detroit, Michigan",
+        "filename": "./20241217 - Ezell Smith, Detroit, Michigan.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2024-12-17",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Gene Austin, Lynch, Kentucky",
+        "filename": "./20241217 - Gene Austin, Lynch, Kentucky.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2024-12-17",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Hewitt Akal Jr., Lynch, Kentucky",
+        "filename": "./20241217 - Hewitt Akal Jr., Lynch, Kentucky.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2024-12-17",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Jerome Ratchford, Detroit, Michigan",
+        "filename": "./20241217 - Jerome Ratchford, Detroit, Michigan.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2024-12-17",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Lakritia Cox, St. Louis",
+        "filename": "./20241217 - Lakritia Cox, St. Louis.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2024-12-17",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "PG Peeples, Lynch, Kentucky",
+        "filename": "./20241217 - PG Peeples, Lynch, Kentucky.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2024-12-17",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Richard Brown, Lynch, Kentucky",
+        "filename": "./20241217 - Richard Brown, Lynch, Kentucky.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2024-12-17",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Sam Howard, St. Louis",
+        "filename": "./20241217 - Sam Howard, St. Louis.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2024-12-17",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Steve Peake, Fleming, KY",
+        "filename": "./20241217 - Steve Peake, Fleming, KY.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2024-12-17",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Elaine Armstrong： Camden Park's Colored Day, Huntington, WV",
+        "filename": "./20250119 - Elaine Armstrong： Camden Park's Colored Day, Huntington, WV.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-01-19",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Black in Appalachia Podcast： LIVE at National Archives",
+        "filename": "./20250131 - Black in Appalachia Podcast： LIVE at National Archives.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-01-31",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "The Lynching of Fred Shannon Marker Dedication, Floyd County, KY",
+        "filename": "./20250527 - The Lynching of Fred Shannon Marker Dedication, Floyd County, KY.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-05-27",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Flipping Callie Beatty's Tombstone",
+        "filename": "./20250601 - Flipping Callie Beatty's Tombstone.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-06-01",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Elsie Moats-Barrow & Tracy Moats,  Pendleton County, WV",
+        "filename": "./20250818 - Elsie Moats-Barrow & Tracy Moats,  Pendleton County, WV.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-08-18",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Noah Moats, Pendleton County, WV",
+        "filename": "./20250819 - Noah Moats, Pendleton County, WV.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-08-19",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Otis Moats,  Pendleton County, WV",
+        "filename": "./20250819 - Otis Moats,  Pendleton County, WV.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-08-19",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Patricia Wright Moats, Pendleton County, WV",
+        "filename": "./20250819 - Patricia Wright Moats, Pendleton County, WV.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-08-19",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Sam Moats, Pendleton County, WV",
+        "filename": "./20250819 - Sam Moats, Pendleton County, WV.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-08-19",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Thelma Moats-Newman, Pendleton County WV",
+        "filename": "./20250819 - Thelma Moats-Newman, Pendleton County WV.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-08-19",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Chip and Terry Willis, Pendleton County, WV",
+        "filename": "./20250915 - Chip and Terry Willis, Pendleton County, WV.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-09-15",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Homer and Norma Jean Moats, Pendleton County, WV",
+        "filename": "./20250915 - Homer and Norma Jean Moats, Pendleton County, WV.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-09-15",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "John Andrew Moats, Pendleton County, WV",
+        "filename": "./20250915 - John Andrew Moats, Pendleton County, WV.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-09-15",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Sarah Morgan, Pendleton County, WV",
+        "filename": "./20250915 - Sarah Morgan, Pendleton County, WV.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-09-15",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Sherman E Wright, Pendleton County, WV",
+        "filename": "./20250915 - Sherman E Wright, Pendleton County, WV.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-09-15",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Gail Moats Wilson, Pendleton County, WV",
+        "filename": "./20250916 - Gail Moats Wilson, Pendleton County, WV.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-09-16",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Linda Wright Anderson, Pendleton County WV",
+        "filename": "./20250916 - Linda Wright Anderson, Pendleton County WV.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-09-16",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "The Legend of Charlie Ross, Entry Mountain, WV",
+        "filename": "./20251107 - The Legend of Charlie Ross, Entry Mountain, WV.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-11-07",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "W Fitzhugh Brundage, 2019",
+        "filename": "./20251128 - W Fitzhugh Brundage, 2019.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-11-28",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Francis Carmichael Luttrell, Russellville TN, Part 1",
+        "filename": "./20251201 - Francis Carmichael Luttrell, Russellville TN, Part 1.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-12-01",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Francis Carmichael Luttrell, Russellville TN, Part 2",
+        "filename": "./20251201 - Francis Carmichael Luttrell, Russellville TN, Part 2.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-12-01",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Betty Brown Thompson, Calhoun TN",
+        "filename": "./20251202 - Betty Brown Thompson, Calhoun TN.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-12-02",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "James Nicely Jr, Russellville TN, Part 1",
+        "filename": "./20251202 - James Nicely Jr, Russellville TN, Part 1.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-12-02",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "James Nicely Jr, Russellville TN, Part 2",
+        "filename": "./20251202 - James Nicely Jr, Russellville TN, Part 2.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-12-02",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Linda Kimpson Johnson Beard, Calhoun TN",
+        "filename": "./20251202 - Linda Kimpson Johnson Beard, Calhoun TN.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-12-02",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Mary Elizabeth Brown Massingill, Calhoun TN",
+        "filename": "./20251202 - Mary Elizabeth Brown Massingill, Calhoun TN.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-12-02",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Morris Sherles Jr., Russellville TN, Part 1",
+        "filename": "./20251202 - Morris Sherles Jr., Russellville TN, Part 1.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-12-02",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Morris Sherles Jr., Russellville TN, Part 2",
+        "filename": "./20251202 - Morris Sherles Jr., Russellville TN, Part 2.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-12-02",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Mrs. Linnie Jackson, Russellville TN, Part 1",
+        "filename": "./20251202 - Mrs. Linnie Jackson, Russellville TN, Part 1.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-12-02",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Mrs. Linnie Jackson, Russellville TN, Part 2",
+        "filename": "./20251202 - Mrs. Linnie Jackson, Russellville TN, Part 2.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-12-02",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Gypsy Townsend, Greeneville, TN",
+        "filename": "./20251217 - Gypsy Townsend, Greeneville, TN.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-12-17",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Jaque Powell, Greeneville, TN",
+        "filename": "./20251217 - Jaque Powell, Greeneville, TN.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-12-17",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Mollie Manuel, Greeneville, TN",
+        "filename": "./20251217 - Mollie Manuel, Greeneville, TN.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-12-17",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Treva Posey-Edmonds, Greeneville, TN",
+        "filename": "./20251217 - Treva Posey-Edmonds, Greeneville, TN.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-12-17",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "William Edmonds, Greeneville, TN",
+        "filename": "./20251217 - William Edmonds, Greeneville, TN.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-12-17",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Willie Anderson, Greeneville, TN",
+        "filename": "./20251217 - Willie Anderson, Greeneville, TN.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-12-17",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Appalachian African American Cultural Center, Pennington Gap, VA",
+        "filename": "./20251231 - Appalachian African American Cultural Center, Pennington Gap, VA.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-12-31",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Ron Carson on Integration in Pennington Gap, VA",
+        "filename": "./20251231 - Ron Carson on Integration in Pennington Gap, VA.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2025-12-31",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Kim Treece & the Bewley's Chapel Choir, March 28th, 1993",
+        "filename": "./20260218 - Kim Treece & the Bewley's Chapel Choir, March 28th, 1993.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2026-02-18",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Delphine Yeary-Blevins： Part 2",
+        "filename": "./20260226 - Delphine Yeary-Blevins： Part 2.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2026-02-26",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Pre-1850 Census Data Technique for Enslaved Numbers",
+        "filename": "./20260226 - Pre-1850 Census Data Technique for Enslaved Numbers.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2026-02-26",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Black Teachers & Rural Schools, Walters State Community College, 2026",
+        "filename": "./20260307 - Black Teachers & Rural Schools, Walters State Community College, 2026.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2026-03-07",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Paul Lawrence Armstrong, Knoxville, TN",
+        "filename": "./20260504 - Paul Lawrence Armstrong, Knoxville, TN.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2026-05-04",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Avice E Reid, Knoxville, TN",
+        "filename": "./20260510 - Avice E Reid, Knoxville, TN.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2026-05-10",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Carolyn L Lundy, Knoxville, TN",
+        "filename": "./20260510 - Carolyn L Lundy, Knoxville, TN.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2026-05-10",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Freda Lattimore Johnson, Knoxville, TN",
+        "filename": "./20260510 - Freda Lattimore Johnson, Knoxville, TN.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2026-05-10",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Alberta Johnson, Etowah, TN",
+        "filename": "./20260511 - Alberta Johnson, Etowah, TN.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2026-05-11",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Lucia Walker, Etowah, TN",
+        "filename": "./20260511 - Lucia Walker, Etowah, TN.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2026-05-11",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Linda Long, Etowah, TN",
+        "filename": "./20260512 - Linda Long, Etowah, TN.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2026-05-12",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": null
+      },
+      "properties": {
+        "name": "Reunion of the Ages Commemorative Tribute： Slideshow",
+        "filename": "./20260619 - Reunion of the Ages Commemorative Tribute： Slideshow.mp3",
+        "record_year": null,
+        "record_month": null,
+        "record_day": null,
+        "upload_date": "2026-06-19",
+        "state": null,
+        "county": null,
+        "city": null,
+        "state_fips": null,
+        "county_fips": null,
+        "city_fips": null,
+        "type": null
+      }
+    }
+  ]
+}
