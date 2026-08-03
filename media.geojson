@@ -5,7 +5,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.032334,
+          -83.884804
+        ]
       },
       "properties": {
         "name": "East Tennessee Voices： African American Women & Political History",
@@ -27,7 +30,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.032334,
+          -83.884804
+        ]
       },
       "properties": {
         "name": "Knoxville's Red Summer： The Riot of 1919",
@@ -71,7 +77,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.14511,
+          -82.41681
+        ]
       },
       "properties": {
         "name": "The Erwin Expulsion of 1918",
@@ -181,7 +190,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          35.858564,
+          -86.349357
+        ]
       },
       "properties": {
         "name": "Alex Haley, 1991",
@@ -203,7 +215,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.032334,
+          -83.884804
+        ]
       },
       "properties": {
         "name": "Bill Murrah - History of the 8th of August",
@@ -225,7 +240,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.00244,
+          -83.159605
+        ]
       },
       "properties": {
         "name": "Carlene Robinson - 8th of August, Newport, TN",
@@ -247,7 +265,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.00244,
+          -83.159605
+        ]
       },
       "properties": {
         "name": "Delores Thomas-Branner - 8th of August, Newport, TN",
@@ -269,7 +290,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.131582,
+          -82.869219
+        ]
       },
       "properties": {
         "name": "Gene Maddox - 8th of August, Greeneville, TN",
@@ -291,7 +315,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.032334,
+          -83.884804
+        ]
       },
       "properties": {
         "name": "Geraldine Taylor - 8th of August, Knoxville, TN",
@@ -313,7 +340,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.131582,
+          -82.869219
+        ]
       },
       "properties": {
         "name": "Kendra Hinkle - 8th of August",
@@ -335,7 +365,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.032334,
+          -83.884804
+        ]
       },
       "properties": {
         "name": "Maggie Davis - 8th of August, Knoxville, TN",
@@ -357,7 +390,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.032334,
+          -83.884804
+        ]
       },
       "properties": {
         "name": "Marie Battle - 8th of August, Knoxville, TN",
@@ -379,7 +415,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.131582,
+          -82.869219
+        ]
       },
       "properties": {
         "name": "Ned Arter - 8th of August",
@@ -401,7 +440,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.00244,
+          -83.159605
+        ]
       },
       "properties": {
         "name": "Ollie Mae Haney-Swagerty - 8th of August, Newport, TN",
@@ -423,7 +465,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.131582,
+          -82.869219
+        ]
       },
       "properties": {
         "name": "Randi Knott - 8th of August",
@@ -445,7 +490,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.00244,
+          -83.159605
+        ]
       },
       "properties": {
         "name": "Rudene Lewis Swagerty - 8th of August, Newport, TN",
@@ -467,7 +515,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.032334,
+          -83.884804
+        ]
       },
       "properties": {
         "name": "Wilma Steele - 8th of August, Knoxville, TN",
@@ -489,7 +540,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.00244,
+          -83.159605
+        ]
       },
       "properties": {
         "name": "Beulah Oldham - Newport, TN",
@@ -511,7 +565,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          35.858564,
+          -86.349357
+        ]
       },
       "properties": {
         "name": "John Cimprich, ＂Slavery's End in Tennessee＂",
@@ -533,7 +590,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.032334,
+          -83.884804
+        ]
       },
       "properties": {
         "name": "Beauford Delaney",
@@ -599,7 +659,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.415976,
+          -82.949145
+        ]
       },
       "properties": {
         "name": "May Day with Swift College Alumni - Rogersville, TN",
@@ -621,7 +684,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.415976,
+          -82.949145
+        ]
       },
       "properties": {
         "name": "Betty Watterson-Fugate",
@@ -643,7 +709,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.415976,
+          -82.949145
+        ]
       },
       "properties": {
         "name": "Catherine Snapp-Howard",
@@ -665,7 +734,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          35.833278,
+          -83.572214
+        ]
       },
       "properties": {
         "name": "Dessa Edyth Parkey-Blair",
@@ -687,7 +759,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.415976,
+          -82.949145
+        ]
       },
       "properties": {
         "name": "Etta Snapp-Fanny",
@@ -775,7 +850,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          35.833278,
+          -83.572214
+        ]
       },
       "properties": {
         "name": "Lollie Mae McKinney-Surratt： Swift Reunion, Sevierville, TN",
@@ -929,7 +1007,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          35.858564,
+          -86.349357
+        ]
       },
       "properties": {
         "name": "Bobby Lovett： Swift College & The History of Black Education in Tennessee",
@@ -1171,7 +1252,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.188826,
+          -83.261343
+        ]
       },
       "properties": {
         "name": "Donald J Daniels -  Morristown College",
@@ -1193,7 +1277,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.188826,
+          -83.261343
+        ]
       },
       "properties": {
         "name": "Dr. Paul Fuller - Morristown College",
@@ -1215,7 +1302,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.188826,
+          -83.261343
+        ]
       },
       "properties": {
         "name": "Jim Claborn - Morristown College",
@@ -1237,7 +1327,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.188826,
+          -83.261343
+        ]
       },
       "properties": {
         "name": "Madelyn Foster Daniels - Morristown College",
@@ -1259,7 +1352,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.188826,
+          -83.261343
+        ]
       },
       "properties": {
         "name": "Mary Houston Coleman - Morristown College",
@@ -1281,7 +1377,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.188826,
+          -83.261343
+        ]
       },
       "properties": {
         "name": "Sam Richardson - Morristown College",
@@ -1347,7 +1446,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.032334,
+          -83.884804
+        ]
       },
       "properties": {
         "name": "Beauford Delaney： Subtítulos en Español",
@@ -1523,7 +1625,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.451666,
+          -81.823043
+        ]
       },
       "properties": {
         "name": "Shoun's Chapel School, Mountain City, Tennessee, 1940",
@@ -1633,7 +1738,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.188826,
+          -83.261343
+        ]
       },
       "properties": {
         "name": "William H. Rucker, Morristown, TN - 2017",
@@ -1721,7 +1829,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.131582,
+          -82.869219
+        ]
       },
       "properties": {
         "name": "Arlin Lee Bowers & Linnie Hamilton-Gillespie, Greeneville Tennessee",
@@ -1743,7 +1854,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.131582,
+          -82.869219
+        ]
       },
       "properties": {
         "name": "Donald Leroy Ripley, Greeneville Tennessee",
@@ -1765,7 +1879,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.131582,
+          -82.869219
+        ]
       },
       "properties": {
         "name": "George Farnsworth Hall, Greeneville Tennessee",
@@ -1787,7 +1904,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.131582,
+          -82.869219
+        ]
       },
       "properties": {
         "name": "Jerleen Barner-Manual, Greeneville Tennessee",
@@ -1809,7 +1929,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.131582,
+          -82.869219
+        ]
       },
       "properties": {
         "name": "Sylvia Ann Hall-Bowers, Greeneville Tennessee",
@@ -1853,7 +1976,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.032334,
+          -83.884804
+        ]
       },
       "properties": {
         "name": "Knoxville College by Drone",
@@ -1941,7 +2067,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.032334,
+          -83.884804
+        ]
       },
       "properties": {
         "name": "The Lane Family, 1982 World's Fair, Knoxville, TN",
@@ -2051,7 +2180,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.501572,
+          -83.660698
+        ]
       },
       "properties": {
         "name": "Hoop Creek, Claiborne County, East Tennessee",
@@ -2073,7 +2205,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.514384,
+          -82.547615
+        ]
       },
       "properties": {
         "name": "Youth Choir, Central Baptist Church, Kingsport, TN 1953",
@@ -2227,7 +2362,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.188826,
+          -83.261343
+        ]
       },
       "properties": {
         "name": "Ruins of Morristown College",
@@ -2271,7 +2409,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.514384,
+          -82.547615
+        ]
       },
       "properties": {
         "name": "Full Program： Healing of Rotherwood, Kingsport, TN",
@@ -2293,7 +2434,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.514384,
+          -82.547615
+        ]
       },
       "properties": {
         "name": "Healing at Rotherwood Mansion, Kingsport, TN",
@@ -3437,7 +3581,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.131582,
+          -82.869219
+        ]
       },
       "properties": {
         "name": "Gypsy Townsend, Greeneville, TN",
@@ -3459,7 +3606,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.131582,
+          -82.869219
+        ]
       },
       "properties": {
         "name": "Jaque Powell, Greeneville, TN",
@@ -3481,7 +3631,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.131582,
+          -82.869219
+        ]
       },
       "properties": {
         "name": "Mollie Manuel, Greeneville, TN",
@@ -3503,7 +3656,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.131582,
+          -82.869219
+        ]
       },
       "properties": {
         "name": "Treva Posey-Edmonds, Greeneville, TN",
@@ -3525,7 +3681,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.131582,
+          -82.869219
+        ]
       },
       "properties": {
         "name": "William Edmonds, Greeneville, TN",
@@ -3547,7 +3706,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.131582,
+          -82.869219
+        ]
       },
       "properties": {
         "name": "Willie Anderson, Greeneville, TN",
@@ -3701,7 +3863,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.032334,
+          -83.884804
+        ]
       },
       "properties": {
         "name": "Paul Lawrence Armstrong, Knoxville, TN",
@@ -3723,7 +3888,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.032334,
+          -83.884804
+        ]
       },
       "properties": {
         "name": "Avice E Reid, Knoxville, TN",
@@ -3745,7 +3913,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.032334,
+          -83.884804
+        ]
       },
       "properties": {
         "name": "Carolyn L Lundy, Knoxville, TN",
@@ -3767,7 +3938,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          36.032334,
+          -83.884804
+        ]
       },
       "properties": {
         "name": "Freda Lattimore Johnson, Knoxville, TN",
