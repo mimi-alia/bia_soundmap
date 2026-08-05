@@ -33,7 +33,7 @@ def GeoCode(geocodio_client, feature):
    try:
       response = geocodio_client.geocode(address)
       location = response.results[0].location
-      feature["geometry"] = Point((location.lat, location.lng))
+      feature["geometry"] = Point((location.lng, location.lat))
    except Exception as error:
       print(error)
 
