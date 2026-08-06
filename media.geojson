@@ -55,7 +55,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.268193,
+          35.835649
+        ]
       },
       "properties": {
         "name": "Lesley Riddle",
@@ -102,7 +105,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -85.29298,
+          37.533684
+        ]
       },
       "properties": {
         "name": "The Eastern Kentucky Social Club - Part 1",
@@ -124,7 +130,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -85.29298,
+          37.533684
+        ]
       },
       "properties": {
         "name": "The Eastern Kentucky Social Club - Part 2",
@@ -146,7 +155,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -85.29298,
+          37.533684
+        ]
       },
       "properties": {
         "name": "The Eastern Kentucky Social Club - Part 3",
@@ -168,7 +180,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -85.29298,
+          37.533684
+        ]
       },
       "properties": {
         "name": "The Eastern Kentucky Social Club - Part 4",
@@ -615,7 +630,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -85.29298,
+          37.533684
+        ]
       },
       "properties": {
         "name": "The Eastern Kentucky Social Club - Part 5",
@@ -637,7 +655,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -85.29298,
+          37.533684
+        ]
       },
       "properties": {
         "name": "The Eastern Kentucky Social Club",
@@ -784,7 +805,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -83.572214,
+          35.833278
+        ]
       },
       "properties": {
         "name": "Imogene Trammel-Fugate",
@@ -806,7 +830,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.949145,
+          36.415976
+        ]
       },
       "properties": {
         "name": "Josephine Snapp-Francisco-Willis",
@@ -828,7 +855,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -83.572214,
+          35.833278
+        ]
       },
       "properties": {
         "name": "Lois Goins",
@@ -875,7 +905,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.949145,
+          36.415976
+        ]
       },
       "properties": {
         "name": "Margaret Clark-Delaney",
@@ -897,7 +930,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.949145,
+          36.415976
+        ]
       },
       "properties": {
         "name": "Norma Jean Cope-Bowers",
@@ -919,7 +955,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.949145,
+          36.415976
+        ]
       },
       "properties": {
         "name": "Pat Snapp-Charles",
@@ -941,7 +980,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -83.572214,
+          35.833278
+        ]
       },
       "properties": {
         "name": "Ruth Sharp-Ben",
@@ -963,7 +1005,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.949145,
+          36.415976
+        ]
       },
       "properties": {
         "name": "Wayne Fain",
@@ -985,7 +1030,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.949145,
+          36.415976
+        ]
       },
       "properties": {
         "name": "William Dennis",
@@ -1032,7 +1080,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -86.349357,
+          35.858564
+        ]
       },
       "properties": {
         "name": "Lester C Lamon： Swift & Maryville Colleges",
@@ -1054,7 +1105,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.949145,
+          36.415976
+        ]
       },
       "properties": {
         "name": "Lollie Mae McKinney-Surratt at Swift Museum",
@@ -1076,7 +1130,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -83.884804,
+          36.032334
+        ]
       },
       "properties": {
         "name": "Robert J Booker on William H. Franklin",
@@ -1098,7 +1155,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.949145,
+          36.415976
+        ]
       },
       "properties": {
         "name": "Carolyn Trammell-Cox at Swift Museum",
@@ -1120,7 +1180,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.949145,
+          36.415976
+        ]
       },
       "properties": {
         "name": "Charles W Hargrave at Swift Museum",
@@ -1142,7 +1205,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.949145,
+          36.415976
+        ]
       },
       "properties": {
         "name": "Dessa Edyth Parkey-Blair at Swift Museum",
@@ -1164,7 +1230,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.949145,
+          36.415976
+        ]
       },
       "properties": {
         "name": "Sandy Durham at Swift Museum",
@@ -1186,7 +1255,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.949145,
+          36.415976
+        ]
       },
       "properties": {
         "name": "Stella Gudger at Swift Museum",
@@ -1208,7 +1280,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.949145,
+          36.415976
+        ]
       },
       "properties": {
         "name": "Stella Gudger at Swift Museum II",
@@ -1230,7 +1305,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -86.349357,
+          35.858564
+        ]
       },
       "properties": {
         "name": "Dr. William ＂Tom＂ Bogart： Swift & Maryville College",
@@ -1402,7 +1480,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -84.184688,
+          36.854371
+        ]
       },
       "properties": {
         "name": "The Corbin Expulsion of 1919",
@@ -1424,7 +1505,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.949145,
+          36.415976
+        ]
       },
       "properties": {
         "name": "The Swift Story",
@@ -1471,7 +1555,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -86.349357,
+          35.858564
+        ]
       },
       "properties": {
         "name": "Black in Appalachia Live! w⧸ Public Radio Exchange",
@@ -1493,7 +1580,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.268193,
+          35.835649
+        ]
       },
       "properties": {
         "name": "Lesley Riddle： Subtítulos en Español",
@@ -1515,7 +1605,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.949145,
+          36.415976
+        ]
       },
       "properties": {
         "name": "Swift Memorial Institute： Oral Histories & Interviews",
@@ -1537,7 +1630,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -83.884804,
+          36.032334
+        ]
       },
       "properties": {
         "name": "Tour of the Beck Cultural Exchange Center",
@@ -1559,7 +1655,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -83.884804,
+          36.032334
+        ]
       },
       "properties": {
         "name": "Tour of the The Calvin M. McClung Historical Collection",
@@ -1581,7 +1680,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -83.884804,
+          36.032334
+        ]
       },
       "properties": {
         "name": "Finding Your Roots： Beck Cultural Exchange Center",
@@ -1603,7 +1705,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -86.349357,
+          35.858564
+        ]
       },
       "properties": {
         "name": "Black In Appalachia.org",
@@ -1650,7 +1755,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -86.349357,
+          35.858564
+        ]
       },
       "properties": {
         "name": "APPALACHIAN STUDIES CONFERENCE： Black in Appalachia the Podcast",
@@ -1672,7 +1780,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -81.699784,
+          36.222156
+        ]
       },
       "properties": {
         "name": "Sound & Sole",
@@ -1694,7 +1805,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.62156,
+          36.974561
+        ]
       },
       "properties": {
         "name": "Lynching Site Soil Collections, Wise County, Virginia",
@@ -1716,7 +1830,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -81.560742,
+          35.947401
+        ]
       },
       "properties": {
         "name": "Dulatown",
@@ -1763,7 +1880,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -83.693159,
+          36.669566
+        ]
       },
       "properties": {
         "name": "James E Box, Middlesboro, KY： 2022",
@@ -1785,7 +1905,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -83.693159,
+          36.669566
+        ]
       },
       "properties": {
         "name": "Mabel Ballinger-Smith, Middlesboro, KY： 2022",
@@ -1807,7 +1930,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.542414,
+          36.621664
+        ]
       },
       "properties": {
         "name": "A Gate City Villainy： The Lynching of Samuel Wood",
@@ -1954,7 +2080,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -86.349357,
+          35.858564
+        ]
       },
       "properties": {
         "name": "Black in Appalachia Podcast： Cornel West runs for President",
@@ -2001,7 +2130,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -83.656829,
+          36.068694
+        ]
       },
       "properties": {
         "name": "A Dangerous Spirit： The Lynching of Lucian Weaver",
@@ -2023,7 +2155,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -83.690318,
+          36.556666
+        ]
       },
       "properties": {
         "name": "Diabolical Murders： The Lynching of Thomas Hunter",
@@ -2045,7 +2180,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.475496,
+          36.971586
+        ]
       },
       "properties": {
         "name": "Wiley Gynn, Lynching Marker Unveiling： April 22, 2023",
@@ -2092,7 +2230,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -84.195418,
+          36.116731
+        ]
       },
       "properties": {
         "name": "Boomer Winfrey, Coal Creek Miners Museum - 2018",
@@ -2114,7 +2255,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.711998,
+          40.41493
+        ]
       },
       "properties": {
         "name": "Liberated Landscape： Black Appalachian Ohio",
@@ -2136,7 +2280,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.62156,
+          36.974561
+        ]
       },
       "properties": {
         "name": "Re-installation of David Hurst Lynching Marker, Appalachia, Virginia",
@@ -2158,7 +2305,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.919767,
+          36.960303
+        ]
       },
       "properties": {
         "name": "Memorial Day in Lynch, Kentucky",
@@ -2230,7 +2380,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.176238,
+          36.613815
+        ]
       },
       "properties": {
         "name": "Soil Collection Ceremony： Bristol, Virginia",
@@ -2252,7 +2405,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -81.22232,
+          37.26984
+        ]
       },
       "properties": {
         "name": "Wheels Exhibition, George Tillman Anderson Jr, Bluefield, WV",
@@ -2274,7 +2430,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.919767,
+          36.960303
+        ]
       },
       "properties": {
         "name": "Dr. Karida Brown, St. Louis, 2018",
@@ -2296,7 +2455,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -83.884804,
+          36.032334
+        ]
       },
       "properties": {
         "name": "Avon Rollins on Economic Parity",
@@ -2318,7 +2480,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -85.206426,
+          35.017818
+        ]
       },
       "properties": {
         "name": "Grassroots Garveyism：  The Southern Roots of Black Nationalism, 2016",
@@ -2340,7 +2505,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -83.261343,
+          36.188826
+        ]
       },
       "properties": {
         "name": "Memorial Service： Brenda Kaye Whiteside",
@@ -2387,7 +2555,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.29764,
+          36.97844
+        ]
       },
       "properties": {
         "name": "Dante , Virginia 1940",
@@ -2459,7 +2630,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -83.266071,
+          36.218397
+        ]
       },
       "properties": {
         "name": "Mrs. Delphine Yeary Blevins, Hamblen County, TN",
@@ -2481,7 +2655,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -86.349357,
+          35.858564
+        ]
       },
       "properties": {
         "name": "Willie Mae Clark Gillenwater, Cheyenne, WY",
@@ -2503,7 +2680,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -83.457262,
+          36.09903
+        ]
       },
       "properties": {
         "name": "Helen Rucker Buis, Jefferson City, TN",
@@ -2525,7 +2705,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.176238,
+          36.613815
+        ]
       },
       "properties": {
         "name": "Full Program： Robert Clark Marker Dedication, Bristol, VA",
@@ -2547,7 +2730,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.176238,
+          36.613815
+        ]
       },
       "properties": {
         "name": "Robert Clark Marker Dedication, Bristol, Virginia",
@@ -2569,7 +2755,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.919767,
+          36.960303
+        ]
       },
       "properties": {
         "name": "Andrea Massey, Lynch, Kentucky",
@@ -2591,7 +2780,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.919767,
+          36.960303
+        ]
       },
       "properties": {
         "name": "Angela Smith Ward, Lynch, Kentucky",
@@ -2613,7 +2805,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.919767,
+          36.960303
+        ]
       },
       "properties": {
         "name": "Annie Gist, St. Louis",
@@ -2635,7 +2830,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.919767,
+          36.960303
+        ]
       },
       "properties": {
         "name": "Bennie Massey, St. Louis",
@@ -2657,7 +2855,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.919767,
+          36.960303
+        ]
       },
       "properties": {
         "name": "Bernie Bickerstaff, St. Louis",
@@ -2679,7 +2880,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.919767,
+          36.960303
+        ]
       },
       "properties": {
         "name": "Della Watts, St. Louis",
@@ -2701,7 +2905,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.9485,
+          36.96481
+        ]
       },
       "properties": {
         "name": "Edgar James Moss, Detroit,Michigan",
@@ -2723,7 +2930,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.919767,
+          36.960303
+        ]
       },
       "properties": {
         "name": "Ezell Smith, Detroit, Michigan",
@@ -2745,7 +2955,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.919767,
+          36.960303
+        ]
       },
       "properties": {
         "name": "Gene Austin, Lynch, Kentucky",
@@ -2767,7 +2980,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.919767,
+          36.960303
+        ]
       },
       "properties": {
         "name": "Hewitt Akal Jr., Lynch, Kentucky",
@@ -2789,7 +3005,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.919767,
+          36.960303
+        ]
       },
       "properties": {
         "name": "Jerome Ratchford, Detroit, Michigan",
@@ -2811,7 +3030,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.919767,
+          36.960303
+        ]
       },
       "properties": {
         "name": "Lakritia Cox, St. Louis",
@@ -2833,7 +3055,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.919767,
+          36.960303
+        ]
       },
       "properties": {
         "name": "PG Peeples, Lynch, Kentucky",
@@ -2855,7 +3080,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.919767,
+          36.960303
+        ]
       },
       "properties": {
         "name": "Richard Brown, Lynch, Kentucky",
@@ -2877,7 +3105,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.919767,
+          36.960303
+        ]
       },
       "properties": {
         "name": "Sam Howard, St. Louis",
@@ -2899,7 +3130,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -83.699205,
+          38.367848
+        ]
       },
       "properties": {
         "name": "Steve Peake, Fleming, KY",
@@ -2921,7 +3155,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.412866,
+          38.371727
+        ]
       },
       "properties": {
         "name": "Elaine Armstrong： Camden Park's Colored Day, Huntington, WV",
@@ -2943,7 +3180,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -86.349357,
+          35.858564
+        ]
       },
       "properties": {
         "name": "Black in Appalachia Podcast： LIVE at National Archives",
@@ -2965,7 +3205,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -82.739724,
+          37.552456
+        ]
       },
       "properties": {
         "name": "The Lynching of Fred Shannon Marker Dedication, Floyd County, KY",
@@ -2987,7 +3230,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -83.937721,
+          35.992727
+        ]
       },
       "properties": {
         "name": "Flipping Callie Beatty's Tombstone",
@@ -3009,7 +3255,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -79.340618,
+          38.67445
+        ]
       },
       "properties": {
         "name": "Elsie Moats-Barrow & Tracy Moats,  Pendleton County, WV",
@@ -3031,7 +3280,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -79.340618,
+          38.67445
+        ]
       },
       "properties": {
         "name": "Noah Moats, Pendleton County, WV",
@@ -3053,7 +3305,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -79.340618,
+          38.67445
+        ]
       },
       "properties": {
         "name": "Otis Moats,  Pendleton County, WV",
@@ -3075,7 +3330,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -79.340618,
+          38.67445
+        ]
       },
       "properties": {
         "name": "Patricia Wright Moats, Pendleton County, WV",
@@ -3097,7 +3355,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -79.340618,
+          38.67445
+        ]
       },
       "properties": {
         "name": "Sam Moats, Pendleton County, WV",
@@ -3119,7 +3380,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -79.340618,
+          38.67445
+        ]
       },
       "properties": {
         "name": "Thelma Moats-Newman, Pendleton County WV",
@@ -3141,7 +3405,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -79.340618,
+          38.67445
+        ]
       },
       "properties": {
         "name": "Chip and Terry Willis, Pendleton County, WV",
@@ -3163,7 +3430,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -79.340618,
+          38.67445
+        ]
       },
       "properties": {
         "name": "Homer and Norma Jean Moats, Pendleton County, WV",
@@ -3185,7 +3455,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -79.340618,
+          38.67445
+        ]
       },
       "properties": {
         "name": "John Andrew Moats, Pendleton County, WV",
@@ -3207,7 +3480,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -79.340618,
+          38.67445
+        ]
       },
       "properties": {
         "name": "Sarah Morgan, Pendleton County, WV",
@@ -3229,7 +3505,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -79.340618,
+          38.67445
+        ]
       },
       "properties": {
         "name": "Sherman E Wright, Pendleton County, WV",
@@ -3251,7 +3530,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -79.340618,
+          38.67445
+        ]
       },
       "properties": {
         "name": "Gail Moats Wilson, Pendleton County, WV",
@@ -3273,7 +3555,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -79.340618,
+          38.67445
+        ]
       },
       "properties": {
         "name": "Linda Wright Anderson, Pendleton County WV",
@@ -3295,7 +3580,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -79.340618,
+          38.67445
+        ]
       },
       "properties": {
         "name": "The Legend of Charlie Ross, Entry Mountain, WV",
@@ -3317,7 +3605,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -79.130864,
+          35.53971
+        ]
       },
       "properties": {
         "name": "W Fitzhugh Brundage, 2019",
@@ -3339,7 +3630,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -83.185535,
+          36.244307
+        ]
       },
       "properties": {
         "name": "Francis Carmichael Luttrell, Russellville TN, Part 1",
@@ -3361,7 +3655,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -83.185535,
+          36.244307
+        ]
       },
       "properties": {
         "name": "Francis Carmichael Luttrell, Russellville TN, Part 2",
@@ -3383,7 +3680,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -84.736414,
+          35.322816
+        ]
       },
       "properties": {
         "name": "Betty Brown Thompson, Calhoun TN",
@@ -3405,7 +3705,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -83.185535,
+          36.244307
+        ]
       },
       "properties": {
         "name": "James Nicely Jr, Russellville TN, Part 1",
@@ -3427,7 +3730,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -83.185535,
+          36.244307
+        ]
       },
       "properties": {
         "name": "James Nicely Jr, Russellville TN, Part 2",
@@ -3449,7 +3755,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -84.736414,
+          35.322816
+        ]
       },
       "properties": {
         "name": "Linda Kimpson Johnson Beard, Calhoun TN",
@@ -3471,7 +3780,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -84.736414,
+          35.322816
+        ]
       },
       "properties": {
         "name": "Mary Elizabeth Brown Massingill, Calhoun TN",
@@ -3493,7 +3805,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -83.185535,
+          36.244307
+        ]
       },
       "properties": {
         "name": "Morris Sherles Jr., Russellville TN, Part 1",
@@ -3515,7 +3830,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -83.185535,
+          36.244307
+        ]
       },
       "properties": {
         "name": "Morris Sherles Jr., Russellville TN, Part 2",
@@ -3537,7 +3855,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -83.185535,
+          36.244307
+        ]
       },
       "properties": {
         "name": "Mrs. Linnie Jackson, Russellville TN, Part 1",
@@ -3559,7 +3880,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -83.185535,
+          36.244307
+        ]
       },
       "properties": {
         "name": "Mrs. Linnie Jackson, Russellville TN, Part 2",
@@ -3731,7 +4055,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -77.899558,
+          37.995519
+        ]
       },
       "properties": {
         "name": "Appalachian African American Cultural Center, Pennington Gap, VA",
@@ -3753,7 +4080,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -77.899558,
+          37.995519
+        ]
       },
       "properties": {
         "name": "Ron Carson on Integration in Pennington Gap, VA",
@@ -3775,7 +4105,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -83.261343,
+          36.188826
+        ]
       },
       "properties": {
         "name": "Kim Treece & the Bewley's Chapel Choir, March 28th, 1993",
@@ -3797,7 +4130,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -83.266071,
+          36.218397
+        ]
       },
       "properties": {
         "name": "Delphine Yeary-Blevins： Part 2",
@@ -3818,7 +4154,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -86.349357,
+          35.858564
+        ]
       },
       "properties": {
         "name": "Pre-1850 Census Data Technique for Enslaved Numbers",
@@ -3840,7 +4179,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -86.349357,
+          35.858564
+        ]
       },
       "properties": {
         "name": "Black Teachers & Rural Schools, Walters State Community College, 2026",
@@ -3962,7 +4304,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -84.534548,
+          35.347928
+        ]
       },
       "properties": {
         "name": "Alberta Johnson, Etowah, TN",
@@ -3984,7 +4329,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -84.534548,
+          35.347928
+        ]
       },
       "properties": {
         "name": "Lucia Walker, Etowah, TN",
@@ -4006,7 +4354,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -84.534548,
+          35.347928
+        ]
       },
       "properties": {
         "name": "Linda Long, Etowah, TN",
@@ -4028,7 +4379,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": null
+        "coordinates": [
+          -83.261343,
+          36.188826
+        ]
       },
       "properties": {
         "name": "Reunion of the Ages Commemorative Tribute： Slideshow",
