@@ -26,25 +26,6 @@ map.on('load', () => {
         // }
     });
 
-    // map.addSource('media', {
-    //     type: 'geojson',
-    //     // Point to GeoJSON data. This example visualizes all M1.0+ earthquakes
-    //     // from 12/22/15 to 1/21/16 as logged by USGS' Earthquake hazards program.
-    //     data: './media.geojson',
-    // });
-
-    // map.addLayer({
-    //     id: 'media_points',
-    //     type: 'circle',
-    //     source: 'media',
-    //     paint: {
-    //         'circle-color': '#000',
-    //         'circle-radius': 8,
-    //         'circle-stroke-width': 1,
-    //         'circle-stroke-color': '#fff'
-    //     }
-    // })
-
     map.addLayer({
         id: 'clusters',
         type: 'circle',
@@ -60,12 +41,12 @@ map.on('load', () => {
                 'step',
                 ['get', 'point_count'],
                 '#51bbd6',
-                100,
+                10,
                 '#f1f075',
-                750,
+                20,
                 '#f28cb1'
             ],
-            'circle-radius': [
+            'circle-radius': [ //how do i make this count for points === 1
                 'step',
                 ['get', 'point_count'],
                 20,
@@ -77,11 +58,23 @@ map.on('load', () => {
         }
     });
 
+     map.addLayer({
+        id: 'unclustered',
+        type: 'circle',
+        source: 'media_clusters',
+        filter: ["!", ['has', 'point_count']],
+        paint: {
+            
+            'circle-color': '#011418',
+            'circle-radius': 20
+        }
+    });
+
     map.addLayer({
         id: 'cluster-count',
         type: 'symbol',
         source: 'media_clusters',
-        filter: ['has', 'point_count'],
+        // filter: ['has', 'point_count'],
         layout: {
             'text-field': '{point_count_abbreviated}',
             'text-font': ['Noto Sans Regular'],
@@ -90,35 +83,25 @@ map.on('load', () => {
     });
 
     map.addLayer({
-        id: 'unclustered-point',
-        type: 'circle',
-        source: 'media_clusters',
-        filter: ['!', ['has', 'point_count']],
-        paint: {
-            'circle-color': '#11b4da',
-            'circle-radius': 8,
-            'circle-stroke-width': 1,
-            'circle-stroke-color': '#fff'
-        },
-    });
-
-    map.addLayer({
-        id: 'unclustered-point-count',
-        type: 'symbol',
-        source: 'media_clusters',
-        filter: ['!', ['has', 'point_count']],
-        layout: {
-            'text-field': "hi",
-            'text-font': ['Noto Sans Regular'],
-            'text-size': 12,
-            'icon-ignore-placement': true,
-            'icon-allow-overlap': true,
-        }
+    id: 'point-count',
+    type: 'symbol',
+    source: 'media_clusters',
+    filter: ['!', ['has', 'point_count']],
+    layout: {
+        'text-field': '1',
+        'text-font': ['Noto Sans Regular'],
+        'text-size': 12,
+        'text-allow-overlap': true,
+        'text-ignore-placement': true
+    },
+    paint: {
+        'text-color': '#ffffff'
+    }
     });
 
     // inspect a cluster on click
     map.on('click', 'clusters', async (e) => {
-        console.log(e)
+        console.log(e.features)
         const features = map.queryRenderedFeatures(e.point, {
             layers: ['clusters']
         });
@@ -126,15 +109,17 @@ map.on('load', () => {
         const zoom = await map.getSource('media_clusters').getClusterExpansionZoom(clusterId);
         map.easeTo({
             center: features[0].geometry.coordinates,
-            zoom
+            zoom: 5,
         });
     });
+
+
 
     // When a click event occurs on a feature in
     // the unclustered-point layer, open a popup at
     // the location of the feature, with
     // description HTML from its properties.
-    map.on('click', 'unclustered-point', (e) => {
+    map.on('click', 'unclustered', (e) => {
         const coordinates = e.features[0].geometry.coordinates.slice();
         const prop = e.features[0].properties;
 
@@ -161,18 +146,21 @@ map.on('load', () => {
     });
 
     map.on('mouseenter', 'clusters', () => {
+        console.log("mouse entered clustered point");
         map.getCanvas().style.cursor = 'pointer';
     });
     map.on('mouseleave', 'clusters', () => {
+        console.log("mouse left clustered point");
         map.getCanvas().style.cursor = '';
     });
 
-    // map.on('mouseenter', 'uunclustered-point', () => {
-    //     console.log("enter")
-    //     map.getCanvas().style.cursor = 'pointer';
-    // });
-    // map.on('mouseleave', 'unclustered-point', () => {
-    //     map.getCanvas().style.cursor = '';
-    // });
+    map.on('mouseenter', 'unclustered', () => {
+        console.log("mouse entered unclustered point");
+        map.getCanvas().style.cursor = 'pointer';
+    });
+    map.on('mouseleave', 'unclustered', () => {
+        console.log("mouse left unclustered point");
+        map.getCanvas().style.cursor = '';
+    });
 
 });
