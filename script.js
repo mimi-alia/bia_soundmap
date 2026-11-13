@@ -19,7 +19,7 @@ map.on('load', () => {
         // from 12/22/15 to 1/21/16 as logged by USGS' Earthquake hazards program.
         data: './media.geojson',
         cluster: true,
-        clusterMaxZoom: 100, // Max zoom to cluster points on
+        clusterMaxZoom: 22, // Max zoom to cluster points on, needs to be under 32 because of bit storage
         clusterRadius: 50, // Radius of each cluster when clustering points (defaults to 50)
         // clusterProperties: {
         //     total_count : ["+", ["coalesce", ["get", "count"], 1]]
@@ -83,35 +83,74 @@ map.on('load', () => {
     });
 
     map.addLayer({
-    id: 'point-count',
-    type: 'symbol',
-    source: 'media_clusters',
-    filter: ['!', ['has', 'point_count']],
-    layout: {
-        'text-field': '1',
-        'text-font': ['Noto Sans Regular'],
-        'text-size': 12,
-        'text-allow-overlap': true,
-        'text-ignore-placement': true
-    },
-    paint: {
-        'text-color': '#ffffff'
-    }
+        id: 'point-count',
+        type: 'symbol',
+        source: 'media_clusters',
+        filter: ['!', ['has', 'point_count']],
+        layout: {
+            'text-field': '1',
+            'text-font': ['Noto Sans Regular'],
+            'text-size': 12,
+            'text-allow-overlap': true,
+            'text-ignore-placement': true
+        },
+        paint: {
+            'text-color': '#ffffff'
+        }
     });
 
     // inspect a cluster on click
+
     map.on('click', 'clusters', async (e) => {
-        console.log(e.features)
-        const features = map.queryRenderedFeatures(e.point, {
-            layers: ['clusters']
-        });
-        const clusterId = features[0].properties.cluster_id;
-        const zoom = await map.getSource('media_clusters').getClusterExpansionZoom(clusterId);
-        map.easeTo({
-            center: features[0].geometry.coordinates,
-            zoom: 5,
-        });
-    });
+        const feature = e.features[0]; //all data points are contained in this single feature as a cluster
+        const clusterId = feature.properties.cluster_id; // the cluster feature is assigned a unique id
+        const pointCount = feature.properties.point_count; //the cluster feature also has a point count
+        const source = map.getSource('media_clusters');
+        console.log("Cluster ID: ", clusterId)
+
+        try {
+            // Fetch leaves first, with an explicit offset
+            //more about the getClusterLeaves method : https://maplibre.org/maplibre-gl-js/docs/API/classes/GeoJSONSource/#getclusterleaves
+            const leaves = await source.getClusterLeaves(clusterId, pointCount, 0);
+
+            console.log("Leaves:", leaves)
+
+            // Check if all points share the same location
+            const [lng0, lat0] = leaves[0].geometry.coordinates; //coordinates of the first data point
+
+            //for each point in the cluster, return if they are the same coordinates as that of the first coordinate, assign to allSame var
+            const allSame = leaves.every((leaf) => {
+                const [lng, lat] = leaf.geometry.coordinates;
+                return lng === lng0 && lat === lat0;
+            });
+
+            //If all of the coordinates for each point in the leaf are the same, create a popup to display data
+            if (allSame) {
+                const container = document.createElement('div');
+                leaves.forEach((leaf) => {
+                    const p = document.createElement('p');
+                    // swap in whichever property you want to display
+                    p.textContent = leaf.properties.title ?? JSON.stringify(leaf.properties);
+                    container.appendChild(p);
+                });
+
+                new maplibregl.Popup()
+                    .setLngLat([lng0, lat0])
+                    .setDOMContent(container)
+                    .addTo(map);
+            } else { //otherwise zoom to feature
+                // Points differ, so zoom until the cluster splits
+                const zoom = await source.getClusterExpansionZoom(clusterId);
+                map.easeTo({
+                    center: feature.geometry.coordinates,
+                    zoom
+            });
+        }
+    } catch (err) {
+        console.error('Cluster click failed:', clusterId, err);
+    }
+});
+
 
 
 
@@ -146,20 +185,16 @@ map.on('load', () => {
     });
 
     map.on('mouseenter', 'clusters', () => {
-        console.log("mouse entered clustered point");
         map.getCanvas().style.cursor = 'pointer';
     });
     map.on('mouseleave', 'clusters', () => {
-        console.log("mouse left clustered point");
         map.getCanvas().style.cursor = '';
     });
 
     map.on('mouseenter', 'unclustered', () => {
-        console.log("mouse entered unclustered point");
         map.getCanvas().style.cursor = 'pointer';
     });
     map.on('mouseleave', 'unclustered', () => {
-        console.log("mouse left unclustered point");
         map.getCanvas().style.cursor = '';
     });
 
