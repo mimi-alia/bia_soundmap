@@ -1,6 +1,35 @@
 import * as maplibregl from 'https://unpkg.com/maplibre-gl@6.0.0/dist/maplibre-gl.mjs';
 import 'maplibre-gl/dist/maplibre-gl.css';
 
+/************ ************/
+/*   Helper Functions    */
+/************ ************/
+
+function generatePopupContent(leaves){
+    const container = document.createElement('div');
+
+    if (leaves.length === 1){
+        const p = document.createElement('p');
+        p.textContent = leaves[0].properties.name;
+        container.appendChild(p);
+    } else {
+        leaves.forEach((leaf) => {
+        const p = document.createElement('p');
+        // swap in whichever property you want to display
+        p.textContent = leaf.properties.name ?? JSON.stringify(leaf.properties);
+        container.appendChild(p);
+    });
+    }
+
+    console.log(container.children);
+    return container;
+}
+
+
+/************ ************/
+/*          Map          */
+/************ ************/
+
 var map = new maplibregl.Map({
     container: 'map',
     style: 'https://tiles.openfreemap.org/styles/bright',
@@ -126,13 +155,7 @@ map.on('load', () => {
 
             //If all of the coordinates for each point in the leaf are the same, create a popup to display data
             if (allSame) {
-                const container = document.createElement('div');
-                leaves.forEach((leaf) => {
-                    const p = document.createElement('p');
-                    // swap in whichever property you want to display
-                    p.textContent = leaf.properties.title ?? JSON.stringify(leaf.properties);
-                    container.appendChild(p);
-                });
+                const container = generatePopupContent(leaves);
 
                 new maplibregl.Popup()
                     .setLngLat([lng0, lat0])
@@ -162,10 +185,12 @@ map.on('load', () => {
         const coordinates = e.features[0].geometry.coordinates.slice();
         const prop = e.features[0].properties;
 
-        console.log(prop)
-        console.log(e)
-        console.log(e.features)
-        console.log(e.features.length)
+        // console.log(prop)
+        // console.log(e)
+        // console.log(e.features)
+        // console.log(e.features.length)
+        console.log(e.features[0])
+                console.log(e.features.length)
 
 
 
@@ -178,8 +203,8 @@ map.on('load', () => {
 
         new maplibregl.Popup()
             .setLngLat(coordinates)
-            .setHTML(
-                "yummu"
+            .setDOMContent(
+                generatePopupContent(e.features)
             )
             .addTo(map);
     });
