@@ -5,8 +5,12 @@ import 'maplibre-gl/dist/maplibre-gl.css';
 /*   Helper Functions    */
 /************ ************/
 
+
+
 function generatePopupContent(leaves){
     const container = document.createElement('div');
+    
+    container.className = "popup-div";
 
     if (leaves.length === 1){
         const p = document.createElement('p');
@@ -21,9 +25,59 @@ function generatePopupContent(leaves){
     });
     }
 
-    console.log(container.children);
+    // console.log(container.children);
     return container;
 }
+
+function generatePopup(container, leaves){
+    const [lng0, lat0] = leaves[0].geometry.coordinates; //coordinates of the first data point
+    new maplibregl.Popup()
+                    .setLngLat([lng0, lat0])
+                    .setDOMContent(container)
+                    .addTo(map);
+}
+
+// for (let i=0; i<selected.childElementCount; i++){console.log(selected.children[i].innerHTML)} 
+
+function generateMediaPlayer(container){
+    const mediaPlayerDiv = document.querySelector("#media-player");
+    const mediaPlayer = document.querySelector("#media-player>audio");
+
+    // Check if the container is in the dom
+
+    if (container){
+            console.log(container);
+            for (let i=0; i<container.childElementCount; i++){
+                console.log(container.children[i]);
+            }
+    } else {
+        alert("select a point to play!")
+    }
+
+
+}
+
+//why wont the popup variable get redeclared? Or more like, why isnt its value changing on click?
+
+function initializeMediaInteraction(leaves){
+    let popup = document.querySelector(".popup-div");
+    // if there is not a popup, generate popup
+    if(!popup){
+        let content = generatePopupContent(leaves);
+        popup = generatePopup(content, leaves);
+        console.log("no popup")
+        console.log(popup)
+    } else if (popup) {
+    // if there is a popup, return
+        console.log("Popup is already rendered!");
+
+    }
+    console.log(popup)
+    // if a child in the popup is selected, render media player
+
+    // If another child is selected, and media player already up, switch source in media player
+}
+
 
 
 /************ ************/
@@ -135,14 +189,14 @@ map.on('load', () => {
         const clusterId = feature.properties.cluster_id; // the cluster feature is assigned a unique id
         const pointCount = feature.properties.point_count; //the cluster feature also has a point count
         const source = map.getSource('media_clusters');
-        console.log("Cluster ID: ", clusterId)
+        // console.log("Cluster ID: ", clusterId)
 
         try {
             // Fetch leaves first, with an explicit offset
             //more about the getClusterLeaves method : https://maplibre.org/maplibre-gl-js/docs/API/classes/GeoJSONSource/#getclusterleaves
             const leaves = await source.getClusterLeaves(clusterId, pointCount, 0);
 
-            console.log("Leaves:", leaves)
+            // console.log("Leaves:", leaves)
 
             // Check if all points share the same location
             const [lng0, lat0] = leaves[0].geometry.coordinates; //coordinates of the first data point
@@ -155,12 +209,7 @@ map.on('load', () => {
 
             //If all of the coordinates for each point in the leaf are the same, create a popup to display data
             if (allSame) {
-                const container = generatePopupContent(leaves);
-
-                new maplibregl.Popup()
-                    .setLngLat([lng0, lat0])
-                    .setDOMContent(container)
-                    .addTo(map);
+                initializeMediaInteraction(leaves);
             } else { //otherwise zoom to feature
                 // Points differ, so zoom until the cluster splits
                 const zoom = await source.getClusterExpansionZoom(clusterId);
@@ -190,7 +239,7 @@ map.on('load', () => {
         // console.log(e.features)
         // console.log(e.features.length)
         console.log(e.features[0])
-                console.log(e.features.length)
+                // console.log(e.features.length)
 
 
 
@@ -208,6 +257,11 @@ map.on('load', () => {
             )
             .addTo(map);
     });
+
+    // map.on("click", "clusters", () => {
+    //     const popupIsUp = document.querySelector("div.maplibregl-popup-content").children[0].children;
+    //     // console.log(popupIsUp);
+    // });
 
     map.on('mouseenter', 'clusters', () => {
         map.getCanvas().style.cursor = 'pointer';
